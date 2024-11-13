@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Proffesor Tshivule Nguluvhe Here
+I am peson who like computers from a young age so I went to the university of the free state to study Computer Science and Business Management.
 
+## 🔭 I’m currently working on the bank demo web app and mobile app
 <!--
 **Nguluvhe/Nguluvhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
